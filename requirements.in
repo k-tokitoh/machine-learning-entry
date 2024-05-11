@@ -3,3 +3,5 @@ ipykernel
 scikit-learn
 matplotlib
 matplotlib-fontja
+mlxtend
+graphviz
